@@ -6,6 +6,7 @@ Penjelasan latihan1
 2. Dengan menggunakan fungsi random. Yakni, fungsi yang akan menampilkan angka dibawah 0.5 secara acak. Fungsi random sudah otomatis ditampilkan. 
 
 3. Ketika anda sudah memberikan input nilai, maka akan langsung muncul data nilai random. Berikut hasilnya :
+![](ScreenshotLatihan1.jpg)
 
 Penjelasan latihan2
 
@@ -17,6 +18,7 @@ Penjelasan latihan2
 
 4. Lalu akan ditampilkan bilangan terbesar dari semua bilangan yang anda input. Untuk mencari bilangan terbesar dari banyaknya *
    bilangan menggunakan fungsi max. Berikut hasilnya :
+   ![](ScreenshotLatihan2.jpg)
 
 Penjelasan program1
 1. Modal awal pengusaha sebesar : 100000000
@@ -26,3 +28,4 @@ Penjelasan program1
    laba yang telah dihitung berdasarkan presentasenya.
 
 3. Terakhir akan ditampilkan jumlah laba secara keseluruhan yang didapat dengan menggunakan sum. Berikut hasilnya :
+![](ScreenshotProgram1.jpg)
